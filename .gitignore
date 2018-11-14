@@ -73,3 +73,7 @@ _[Ss]cripts
 *.nupkg
 *.ncrunchsolution
 *.dot[Cc]over
+/.vs/Office365SMTP/v15/Server/sqlite3
+/.vs/Office365SMTP/DesignTimeBuild
+/.vs
+/Office365SMTP/.vs/Office365SMTP

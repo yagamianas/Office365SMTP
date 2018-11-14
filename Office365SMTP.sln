@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Office365SMTP", "Office365SMTP\Office365SMTP.csproj", "{B56C8191-0C3C-4126-A34F-0F4BECC72049}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B56C8191-0C3C-4126-A34F-0F4BECC72049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B56C8191-0C3C-4126-A34F-0F4BECC72049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B56C8191-0C3C-4126-A34F-0F4BECC72049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B56C8191-0C3C-4126-A34F-0F4BECC72049}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4AAF7E8-C2AA-487F-9A09-E7C5D5CB9E78}
+	EndGlobalSection
+EndGlobal
